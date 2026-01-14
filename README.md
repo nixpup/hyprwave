@@ -148,11 +148,6 @@ edge = right
 # Margin from the screen edge (in pixels)
 margin = 10
 
-[Keybinds]
-# Keybind labels (for display in setup message)
-toggle_visibility = Super+Shift+M
-toggle_expand = Super+M
-
 [Notifications]
 # Enable/disable notifications
 enabled = true
